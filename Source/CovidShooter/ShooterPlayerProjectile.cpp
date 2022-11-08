@@ -1,27 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
-#include "ShooterPlayerProjectile.h"
-
-// Sets default values
-AShooterPlayerProjectile::AShooterPlayerProjectile()
-{
- 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
-	PrimaryActorTick.bCanEverTick = true;
-
-}
-
-// Called when the game starts or when spawned
-void AShooterPlayerProjectile::BeginPlay()
-{
-	Super::BeginPlay();
-	
-}
-
-// Called every frame
-void AShooterPlayerProjectile::Tick(float DeltaTime)
-{
-	Super::Tick(DeltaTime);
-
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cd3ce37d6447077f33db2243ced6d464902c9bb27523c8b0e92530bd504cc99
+size 1842
