@@ -1,17 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-#pragma once
-
-#include "CoreMinimal.h"
-#include "Blueprint/UserWidget.h"
-#include "ShooterGameOverUI.generated.h"
-
-/**
- * 
- */
-UCLASS()
-class COVIDSHOOTER_API UShooterGameOverUI : public UUserWidget
-{
-	GENERATED_BODY()
-	
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ddffd0459d4af37369ea1ad3cbfef613fa9c733beabe651da6f0b8ca1e6b806
+size 419
