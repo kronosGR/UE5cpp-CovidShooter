@@ -1,27 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
-#include "ShooterPlayerPickup.h"
-
-// Sets default values
-AShooterPlayerPickup::AShooterPlayerPickup()
-{
- 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
-	PrimaryActorTick.bCanEverTick = true;
-
-}
-
-// Called when the game starts or when spawned
-void AShooterPlayerPickup::BeginPlay()
-{
-	Super::BeginPlay();
-	
-}
-
-// Called every frame
-void AShooterPlayerPickup::Tick(float DeltaTime)
-{
-	Super::Tick(DeltaTime);
-
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b14a64fe129b9f04833df68c5b68ba60b63b1c81a68b84bb7c9f22bcd0181b4c
+size 3902
